@@ -1,4 +1,6 @@
-# my-journal-lbta
+# sailsApp
+
+sails.jsを初めて使ったので投稿するアプリを作成しました。
 
 a [Sails v1](https://sailsjs.com) application
 
